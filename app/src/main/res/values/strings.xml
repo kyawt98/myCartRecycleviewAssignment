@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyCart</string>
+    <string name="price">Price - $</string>
+    <string name="_10_discount">$10 discount</string>
+</resources>
